@@ -2,11 +2,11 @@
 
 Choose the idea, person, interaction, and visual direction. The agent can help phrase and save your decisions after you approve them. The provided scope and review safeguards stay in place.
 
-- **Thing:** [My one-page website or mini-app and its main interaction.]
-- **Audience:** [One specific person, and what they want to do or understand.]
-- **Requirements:** One working primary interaction; selected states and results are understandable; honor my approved standing rule in AGENTS.md.
-- **Guardrails:** Static browser code. No required external service, keys, accounts, runtime AI, or private data. Label fictional or sample content. Preserve the example and publishing setup. Work on a branch and wait for human review before shipping.
-- **Experience:** [My visual reference or direction and the most important layout or interaction relationship.]
-- **Test:** I can complete the main action, check one boundary or factual claim, and point to my standing rule's effect in the actual preview. After I approve and merge, the same registered Pages URL works.
+- **Thing:** A focused career opportunity matcher where students and recent graduates complete a short survey and receive ranked internship programs, employers, and job-search paths, including relevant upcoming deadlines.
+- **Audience:** College students and recent graduates exploring internships and early-career roles locally, statewide, and nationally.
+- **Requirements:** Ask about major or field, education and graduation status, location and relocation preferences, internship versus full-time work, public versus private employers, career interests, work arrangement, citizenship or work-authorization considerations when relevant, and personal priorities. Rank matching programs and employers, explain each match, show known eligibility considerations and deadlines, and honor my approved standing rule in AGENTS.md.
+- **Guardrails:** Static browser code using visitor-entered answers and a curated catalog of public opportunities and employers. Do not store personal answers. Link changing claims—especially deadlines and eligibility rules—to an official source and show when they were last verified. Clearly distinguish internship programs, individual postings, employer suggestions, and sample content. Never claim that a visitor is officially eligible or that an opening remains available. No secret keys, accounts, runtime AI, private data, unsolicited analytics, or required paid services. Preserve the example and publishing setup. Work on a branch and wait for human review before shipping.
+- **Experience:** A focused career platform with the familiar professionalism of LinkedIn or Handshake, but with a shorter guided survey, deadline-aware opportunity cards, useful filters, and concise explanations connecting each recommendation to the visitor’s goals.
+- **Test:** I can submit different survey profiles and receive meaningfully different ranked results; identify why each result matched; distinguish programs, postings, and employer suggestions; verify a deadline or eligibility claim through its official source; see when changing information was last checked; and point to my standing rule’s effect in the preview. After I approve and merge, the same registered Pages URL works.
 
 The coastal example has a [completed TARGET](examples/coast/SPEC.md). It demonstrates the format, not a required topic.

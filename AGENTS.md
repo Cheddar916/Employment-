@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Keep every recommendation explainable and time-aware: show which survey answers caused the match, provide an official source and last-verified date for every deadline or eligibility claim, and never present preliminary screening as official eligibility or an opportunity as currently open unless its status was verified.
 
 ## Workflow
 
